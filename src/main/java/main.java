@@ -9,4 +9,7 @@ public class main {
         public void deneme(){
             System.out.println("deneme");
         }
+        public void sil(){
+        
+        }
 }
