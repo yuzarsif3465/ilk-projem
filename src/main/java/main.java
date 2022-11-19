@@ -6,4 +6,7 @@ public class main {
         System.out.println("bitinviasndandss");
         System.out.println("asşkdnaşsdn");
         }
+        public void deneme(){
+            System.out.println("deneme");
+        }
 }
