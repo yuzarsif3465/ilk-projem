@@ -4,5 +4,6 @@ public class main {
         salih s=new salih();
 
         System.out.println("bitinviasndandss");
+        System.out.println("asşkdnaşsdn");
         }
 }
